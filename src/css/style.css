@@ -1,0 +1,38 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Sofia+Sans+Semi+Condensed:wght@300;400&display=swap');
+body{
+    background-color: rgb(61, 59, 55);
+    display: flex;
+    justify-content: center;
+    font-family: 'Sofia Sans Semi Condensed', sans-serif;
+}
+.container{
+    background-color: white;
+    display: flex;
+    width: 70%;  
+    border-radius: 1%;
+}
+.container img{
+    width: 500px;
+    height: 95%;
+    margin: 20px 20px 20px 20px;
+    border-radius: 2%;
+}
+.bandeira{
+    display: flex;
+    align-items: center;
+}
+.bandeira img{
+    width: 20px;
+    height: 20px;
+}
+
+.Achievements img{
+    width: 12%;
+    height: 20%;
+}
+
+.Achievements p{
+    display: flex;
+    align-items: center;
+}
